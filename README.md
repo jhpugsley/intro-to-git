@@ -1,4 +1,4 @@
 intro-to-git
 ============
 
-first try
+first try + README
